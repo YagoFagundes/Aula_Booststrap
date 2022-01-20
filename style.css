@@ -1,0 +1,28 @@
+body{
+    font:20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: #7550CC;
+}
+.quemsomos{
+    background-color: #77e3ee;
+}
+.text_quem{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.plataforma{
+    background-color: #29729c;
+}
+.servicos{
+    background-color: #77e3ee;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.dev{
+    background-color: #000000;
+    color: #ffffff;
+}
